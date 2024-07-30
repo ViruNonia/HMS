@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179770215696",
+    "project_id": "hospitalms-14851",
+    "storage_bucket": "hospitalms-14851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179770215696:android:e808e65583dd0430ef6995",
+        "android_client_info": {
+          "package_name": "com.hms.hospital_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylxcG0KH726-e30VMM_N8KlWjUymTSqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
